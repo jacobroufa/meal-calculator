@@ -1,0 +1,24 @@
+{
+  "name": "meal-calculator",
+  "version": "1.0.0",
+  "description": "A meal cost calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobroufa/meal-calculator.git"
+  },
+  "keywords": [
+    "meal",
+    "calculator",
+    "food"
+  ],
+  "author": "Jacob M. Roufa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobroufa/meal-calculator/issues"
+  },
+  "homepage": "https://github.com/jacobroufa/meal-calculator#readme"
+}
